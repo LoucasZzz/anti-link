@@ -1,4 +1,4 @@
-# anti-link
+
 $nomention
 $deletecommand
 $description[Tu ne peut pas mettre de lien désolé]
